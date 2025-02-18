@@ -1,1 +1,1 @@
-surname = input()
+print("Good Bye, Wolrd!")
